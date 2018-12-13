@@ -1,0 +1,13 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+
+ul li:nth-child(odd) {
+  background: #f9f9f9;
+}
+
+.addBtn:hover {
+  background-color: #bbb;
+}
