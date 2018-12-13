@@ -11,3 +11,9 @@ ul li:nth-child(odd) {
 .addBtn:hover {
   background-color: #bbb;
 }
+
+.close {
+  position: absolute;
+  right: 0;
+  
+}
